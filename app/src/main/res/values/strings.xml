@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Surge</string>
     <string name="title_activity_maps">Surge</string>
+    <string name="access_token">pk.eyJ1IjoiZGF2aW5hbiIsImEiOiJjanQxcjJxNHQwOGo1NDNvdm03dGpnNTB4In0.DbsQWv2xAJgCKshziVobSQ</string>
+    <string name=""
 </resources>
